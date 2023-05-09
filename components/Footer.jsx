@@ -17,14 +17,14 @@ const Footer = () => {
     </div>
     <div className={style.cardS}>
       <div className={style.cardItem}>
-        40200 NAIROBI KENYA
+        40200 KISUMU KENYA
 
          <br/> KENYA
       </div>
       <div className={style.cardItem}>
-        CONTACT@IVORUSH 
+        CONTACT@NESBIT
 
-        <br/> 0707391082
+        <br/> 0729053095
       </div>
     </div>
     <div className={style.cardS}>
@@ -34,7 +34,7 @@ const Footer = () => {
         <br/>__FB __IN __BE __TW
       </div>
       <div className={style.cardItem}>
-        @ 2022 IVORUSH RANDA 
+        @ 2023 NESBIT SIMBA 
 
         <br/>
         ALL RIGHTS RESERVED
